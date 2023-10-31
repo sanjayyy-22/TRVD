@@ -14,5 +14,4 @@ Future developments :
   To detect the violating speed’s license plate and store it along with the image in the database and to generate a report stating with image and violation.
 
 To run this
-
-<button onClick={() => clipboard.copy('pip install -r requirements.txt')} />;
+	pip install -r requirements.txt
